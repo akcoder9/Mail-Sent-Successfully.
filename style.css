@@ -1,0 +1,15 @@
+.image{
+    object-fit: cover;
+    width: 100%;
+    background-position: center;
+    max-width: 100%;
+    align-items: center;
+    align-self: center;
+    align-content: center;
+    height: auto;
+    display: block;
+    background-size: cover;
+    border-radius: 100px;
+    background-color: #fff;
+    border: none;
+}
